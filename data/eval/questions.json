@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is the main topic of the document?",
+    "expected_keywords": ["ai", "machine learning"]
+  },
+  {
+    "question": "What problem does the document address?",
+    "expected_keywords": ["retrieval", "question answering"]
+  }
+]

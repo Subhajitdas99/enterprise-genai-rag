@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Vector stores / indexes
+vector_store/
+data/bm25/*.pkl
+
+# Uploaded docs
+data/documents/
+
+# Env files
+.env
+
+# OS
+.DS_Store
+Thumbs.db
